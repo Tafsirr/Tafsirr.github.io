@@ -51,7 +51,11 @@
     {
       "name": "Jayden's Server",
       "address": "https://ani.jaydenha.uk"
-    }
+    },
+    {
+    "name": "TafsirH",
+    "address": "tafsirr.github.io"
+    
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
 }
